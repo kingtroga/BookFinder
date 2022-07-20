@@ -19,5 +19,5 @@ book, and finnally the first ISBN of the book.</p>
   - When the asynchronous parts are done an entirely new page would be half created with JavaScript and half created with CSS.
 3. <s>The Loading screen would be removed</s> and the </s>Search results would be displayed</s> as "Search results" and  the " literal Search results" however I want to style it. 
 
-It's hosted as `http://find-that-book-right-now.herokuapp.com/` 
+It's hosted as <a href="http://find-that-book-right-now.herokuapp.com/">`http://find-that-book-right-now.herokuapp.com/`</a>
 
